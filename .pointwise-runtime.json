@@ -2,6 +2,6 @@
   "version": 1,
   "kind": "cli",
   "setup": [],
-  "verify": ["python3.11", "-B", "memory_checks.py", "baseline"],
+  "verify": ["python3.11", "-B", "memory_checks.py", "target"],
   "demo": ["python3.11", "-B", "cli.py", "demo"]
 }
